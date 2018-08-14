@@ -1,1 +1,1 @@
-First GUI - Just playing around
+First GUI - This application allows you to select one of six shapes. Each shape has up to three input parameters for the user to enter. Click "Calculate" after entering the desired parameters and the total area of that shape will appear. Click "Reset" to reset all values or switch to a different shape to reset all values. Enjoy!
